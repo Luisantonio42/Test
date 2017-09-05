@@ -1,1 +1,32 @@
+html {
+  font-family: Arial;
+  /* 1 */
+  line-height: 1.15;
+  /* 2 */
+  -ms-text-size-adjust: 100%;
+  /* 3 */
+  -webkit-text-size-adjust: 100%;
+  /* 3 */ }
 
+body{
+  background-color:#AFEEEE;
+}
+
+img {
+  display: inline-block;
+  vertical-align: middle;
+  max-width: 100%;
+  height: auto;
+  -ms-interpolation-mode: bicubic; 
+}
+
+h1 {
+  text-align:Center
+  font-size: 2em;
+  margin: 0.67em 0; 
+}
+
+h3{
+  font-size:1em;
+  margin: 0.67em 0;
+}
