@@ -21,7 +21,7 @@ img {
 }
 
 h1 {
-  text-align:Center
+  text-align:Center;
   font-size: 2em;
   margin: 0.67em 0; 
 }
@@ -29,4 +29,10 @@ h1 {
 h3{
   font-size:1em;
   margin: 0.67em 0;
+}
+
+p{
+  animation-duration: 3s;
+  animation-name: slidein;
+  animation-iteration-count: infinite;
 }
